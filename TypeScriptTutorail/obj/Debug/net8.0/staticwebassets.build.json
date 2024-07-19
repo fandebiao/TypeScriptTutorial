@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y2joQq2ufr6z8JfHQeqgKZ7HC9uNRThxH877ZX3OVPs=",
+  "Hash": "q3eFzy5BeOF7FdcVYQaJ2I5kD5HCTL+mH4GeLgxWYn4=",
   "Source": "TypeScriptTutorail",
   "BasePath": "_content/TypeScriptTutorail",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "TypeScriptTutorail\\wwwroot",
       "Source": "TypeScriptTutorail",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "Pattern": "**"
     }
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "C:\\Users\\pearson\\.nuget\\packages\\microsoft.fluentui.aspnetcore.components\\4.9.1\\staticwebassets\\Microsoft.FluentUI.AspNetCore.Components.lib.module.js.map"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\obj\\Debug\\net8.0\\jsmodules\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\obj\\Debug\\net8.0\\jsmodules\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "TypeScriptTutorail.modules.json",
       "AssetKind": "Build",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TypeScriptTutorail.styles.css",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TypeScriptTutorail.styles.css",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "TypeScriptTutorail.styles.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TypeScriptTutorail.styles.css"
+      "OriginalItemSpec": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\obj\\Debug\\net8.0\\scopedcss\\bundle\\TypeScriptTutorail.styles.css"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\app.css",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\any.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\any.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/any.md",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\any.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\array.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\array.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/array.md",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\array.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\assert.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\assert.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/assert.md",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\assert.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\basic.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\basic.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/basic.md",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\basic.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\class.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\class.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/class.md",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\class.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\comment.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\comment.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/comment.md",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\comment.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\d.ts.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\d.ts.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/d.ts.md",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\d.ts.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\declare.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\declare.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/declare.md",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\declare.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\decorator.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\decorator.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/decorator.md",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\decorator.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\decorator-legacy.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\decorator-legacy.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/decorator-legacy.md",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\decorator-legacy.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\enum.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\enum.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/enum.md",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\enum.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\es6.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\es6.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/es6.md",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\es6.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\function.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\function.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/function.md",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\function.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\generics.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\generics.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/generics.md",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\generics.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\interface.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\interface.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/interface.md",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\interface.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\intro.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\intro.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/intro.md",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\intro.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\mapping.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\mapping.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/mapping.md",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\mapping.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\module.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\module.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/module.md",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\module.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\namespace.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\namespace.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/namespace.md",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\namespace.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\narrowing.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\narrowing.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/narrowing.md",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\narrowing.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\npm.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\npm.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/npm.md",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\npm.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\object.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\object.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/object.md",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\object.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\operator.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\operator.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/operator.md",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\operator.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\react.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\react.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/react.md",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\react.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\symbol.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\symbol.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/symbol.md",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\symbol.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\tsc.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\tsc.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/tsc.md",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\tsc.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\tsconfig.json.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\tsconfig.json.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/tsconfig.json.md",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\tsconfig.json.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\tuple.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\tuple.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/tuple.md",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\tuple.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\type-operations.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\type-operations.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/type-operations.md",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\type-operations.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\types.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\types.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/types.md",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\types.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\utility.md",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\utility.md",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "docs/utility.md",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\docs\\utility.md"
     },
     {
-      "Identity": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\favicon.ico",
       "SourceId": "TypeScriptTutorail",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\",
       "BasePath": "_content/TypeScriptTutorail",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

@@ -1,135 +1,135 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\app.css",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\any.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\any.md",
       "PackagePath": "staticwebassets\\docs\\any.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\array.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\array.md",
       "PackagePath": "staticwebassets\\docs\\array.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\assert.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\assert.md",
       "PackagePath": "staticwebassets\\docs\\assert.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\basic.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\basic.md",
       "PackagePath": "staticwebassets\\docs\\basic.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\class.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\class.md",
       "PackagePath": "staticwebassets\\docs\\class.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\comment.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\comment.md",
       "PackagePath": "staticwebassets\\docs\\comment.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\d.ts.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\d.ts.md",
       "PackagePath": "staticwebassets\\docs\\d.ts.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\declare.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\declare.md",
       "PackagePath": "staticwebassets\\docs\\declare.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\decorator-legacy.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\decorator-legacy.md",
       "PackagePath": "staticwebassets\\docs\\decorator-legacy.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\decorator.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\decorator.md",
       "PackagePath": "staticwebassets\\docs\\decorator.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\enum.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\enum.md",
       "PackagePath": "staticwebassets\\docs\\enum.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\es6.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\es6.md",
       "PackagePath": "staticwebassets\\docs\\es6.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\function.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\function.md",
       "PackagePath": "staticwebassets\\docs\\function.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\generics.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\generics.md",
       "PackagePath": "staticwebassets\\docs\\generics.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\interface.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\interface.md",
       "PackagePath": "staticwebassets\\docs\\interface.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\intro.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\intro.md",
       "PackagePath": "staticwebassets\\docs\\intro.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\mapping.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\mapping.md",
       "PackagePath": "staticwebassets\\docs\\mapping.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\module.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\module.md",
       "PackagePath": "staticwebassets\\docs\\module.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\namespace.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\namespace.md",
       "PackagePath": "staticwebassets\\docs\\namespace.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\narrowing.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\narrowing.md",
       "PackagePath": "staticwebassets\\docs\\narrowing.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\npm.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\npm.md",
       "PackagePath": "staticwebassets\\docs\\npm.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\object.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\object.md",
       "PackagePath": "staticwebassets\\docs\\object.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\operator.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\operator.md",
       "PackagePath": "staticwebassets\\docs\\operator.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\react.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\react.md",
       "PackagePath": "staticwebassets\\docs\\react.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\symbol.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\symbol.md",
       "PackagePath": "staticwebassets\\docs\\symbol.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\tsc.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\tsc.md",
       "PackagePath": "staticwebassets\\docs\\tsc.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\tsconfig.json.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\tsconfig.json.md",
       "PackagePath": "staticwebassets\\docs\\tsconfig.json.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\tuple.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\tuple.md",
       "PackagePath": "staticwebassets\\docs\\tuple.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\type-operations.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\type-operations.md",
       "PackagePath": "staticwebassets\\docs\\type-operations.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\types.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\types.md",
       "PackagePath": "staticwebassets\\docs\\types.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\docs\\utility.md",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\docs\\utility.md",
       "PackagePath": "staticwebassets\\docs\\utility.md"
     },
     {
-      "Id": "C:\\Users\\pearson\\Desktop\\src\\TypeScriptTutorail\\TypeScriptTutorail\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\pearson\\source\\repos\\TypeScriptTutorial\\TypeScriptTutorail\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
