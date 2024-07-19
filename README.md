@@ -3,3 +3,4 @@
 2. 使用了Microsoft FluentUI
 3. TypeScript入门文档作者是阮一峰；
 4. 采用最新的.Net8技术栈
+![image](MainPic.png "main")
