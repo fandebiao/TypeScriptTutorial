@@ -1,0 +1,11 @@
+﻿@page "/"
+@page "/index"
+
+<Markdown FilePath="@FileName" />
+
+@code {
+    [Parameter]
+    public string? Name { get; set; }
+
+    private string? FileName { get { return $"wwwroot/docs/intro.md"; } }
+}

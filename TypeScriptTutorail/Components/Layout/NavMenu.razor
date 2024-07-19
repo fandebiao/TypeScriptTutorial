@@ -1,0 +1,38 @@
+﻿<div class="navmenu">
+    <input type="checkbox" title="Menu expand/collapse toggle" id="navmenu-toggle" class="navmenu-icon" />
+    <label for="navmenu-toggle" class="navmenu-icon"><FluentIcon Value="@(new Icons.Regular.Size20.Navigation())" Color="Color.Fill" /></label>
+    <nav class="sitenav" aria-labelledby="main-menu" onclick="document.getElementById('navmenu-toggle').click();">
+        <FluentNavMenu Id="main-menu" Collapsible="true" Width="250" Title="Navigation menu" @bind-Expanded="expanded">
+            <FluentNavLink Href="common/intro.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">1.简介</FluentNavLink>
+            <FluentNavLink Href="common/basic.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">2.基本用法</FluentNavLink>
+            <FluentNavLink Href="common/any.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">3.any类型</FluentNavLink>
+            <FluentNavLink Href="common/types.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">4.类型系统</FluentNavLink>
+            <FluentNavLink Href="common/array.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">5.数组</FluentNavLink>
+            <FluentNavLink Href="common/tuple.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">6.元组</FluentNavLink>
+            <FluentNavLink Href="common/symbol.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">7.symbol类型</FluentNavLink>
+            <FluentNavLink Href="common/function.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">8.函数</FluentNavLink>
+            <FluentNavLink Href="common/object.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">9.对象</FluentNavLink>
+            <FluentNavLink Href="common/interface.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">10.interface</FluentNavLink>
+            <FluentNavLink Href="common/class.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">11.类</FluentNavLink>
+            <FluentNavLink Href="common/generics.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">12.泛型</FluentNavLink>
+            <FluentNavLink Href="common/enum.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">13.Enum类型</FluentNavLink>
+            <FluentNavLink Href="common/assert.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">14.类型断言</FluentNavLink>
+            <FluentNavLink Href="common/module.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">15.模块</FluentNavLink>
+            <FluentNavLink Href="common/namespace.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">16.namespace</FluentNavLink>
+            <FluentNavLink Href="common/decorator.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">17.装饰器</FluentNavLink>
+            <FluentNavLink Href="common/decorator-legacy.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">18.装饰器（旧语法）</FluentNavLink>
+            <FluentNavLink Href="common/declare.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">19.declare关键字</FluentNavLink>
+            <FluentNavLink Href="common/d.ts.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">20.d.ts类型声明文件</FluentNavLink>
+            <FluentNavLink Href="common/operator.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">21.类型运算符</FluentNavLink>
+            <FluentNavLink Href="common/mapping.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">22.类型映射</FluentNavLink>
+            <FluentNavLink Href="common/utility.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">23.类型工具</FluentNavLink>
+            <FluentNavLink Href="common/comment.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">24.注释指令</FluentNavLink>
+            <FluentNavLink Href="common/tsconfig.json.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">25.tsconfig.json文件</FluentNavLink>
+            <FluentNavLink Href="common/tsc.md" Icon="@(new Icons.Regular.Size20.WeatherPartlyCloudyDay())" IconColor="Color.Accent">26.tsc命令</FluentNavLink>
+        </FluentNavMenu>
+    </nav>
+</div>
+
+@code {
+    private bool expanded = true;
+}

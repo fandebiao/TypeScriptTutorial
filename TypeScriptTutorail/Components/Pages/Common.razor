@@ -1,0 +1,10 @@
+﻿@page "/common/{name}"
+@{
+    var fileName = $"wwwroot/docs/{Name}";
+}
+<Markdown FilePath="@fileName"/>
+
+@code {
+    [Parameter]
+    public string? Name{ get; set; }
+}
